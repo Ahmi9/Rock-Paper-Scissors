@@ -3,6 +3,7 @@
 A fun, responsive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 Challenge the bot, track your score, and enjoy smooth animations and visual feedback.
 Perfect for beginners learning DOM manipulation and basic game logic in JavaScript.
+Preview: https://ahmi9.github.io/Rock-Paper-Scissors/
 
 ⸻
 
